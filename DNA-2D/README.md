@@ -3,6 +3,7 @@ DNA 2D
 ========
 
 Este projeto tem sua própria pagina na wiki do [IFMaker](https://wiki.geati.camboriu.ifc.edu.br/index.php/Dna_2D).
+Também há um PDF que explica sobre o projeto, caso não queria usar a wiki.
 
 ### Breve resumo
 
