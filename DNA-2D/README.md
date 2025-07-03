@@ -12,6 +12,7 @@ Também há um PDF que explica sobre o projeto, caso não queria usar a wiki.
 ---
 
 Nesta pasta estão os arquivos svg e uma imagem em png deles dentro do software.
+Também há imagens do DNA físico, sendo que não produzimos as peças do RNA.
 
 Instruções de manufatura podem ser encontradas [aqui](https://wiki.geati.camboriu.ifc.edu.br/index.php/Dna_2D#Fabricação).
 
